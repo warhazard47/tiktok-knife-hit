@@ -3,7 +3,7 @@
 A lightweight HTML5 game inspired by "Knife Hit", built using Phaser 3 and optimized for TikTok Mini Games ecosystem.
 
 ## 🎮 Playable Demo
-https://USERNAME.github.io/tiktok-knife-hit/
+[https://USERNAME.github.io/tiktok-knife-hit/](https://warhazard47.github.io/tiktok-knife-hit/)
 
 ## 📦 Repository
 https://github.com/USERNAME/tiktok-knife-hit
